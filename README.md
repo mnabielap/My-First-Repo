@@ -4,4 +4,4 @@ NPM     : 2106750465
 
 Kelas   : C
 
-Hobby 	: Main game
+Hobby 	: Futsal
